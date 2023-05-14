@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "D:/Franco/Argentina Programa/Yo Programo/Portafolio/portfolio-BackEnd/PortafolioWeb/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "D:/Franco/Argentina Programa/Yo Programo/Portafolio/portfolio-BackEnd/PortafolioWeb/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d09d9227-3459-437d-a3a0-f78b12670490"
   }
 }
