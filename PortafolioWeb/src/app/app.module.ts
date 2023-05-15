@@ -13,6 +13,8 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HysComponent } from './components/hys/hys.component';
 import { ProyectoComponent } from './components/proyecto/proyecto.component';
 import { HttpClientModule } from '@angular/common/http';
+import { HomeComponent } from './components/home/home.component';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { HttpClientModule } from '@angular/common/http';
     ExperienciaComponent,
     EducacionComponent,
     HysComponent,
-    ProyectoComponent
+    ProyectoComponent,
+    HomeComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
