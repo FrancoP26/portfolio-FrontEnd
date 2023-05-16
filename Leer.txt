@@ -1,0 +1,1 @@
+Problemas con backend en Heroku y Render, funciona perfecto en local, revisar application.properties para cambiar a local
